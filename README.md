@@ -4,6 +4,6 @@
 
 <h1 align="center">ISL App</h1>
 
-This repository contains no application source or setup instructions.
+<p align="center">This repository contains no application source or setup instructions.</p>
 
 The related [isl-backend](https://github.com/AbhiramVSA/isl-backend) repository provides the Indian Sign Language recognition API.
