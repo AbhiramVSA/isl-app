@@ -1,4 +1,8 @@
-# ISL App
+<p align="center">
+  <img src="assets/readme-mark.png" alt="Repository mark for ISL App" width="200">
+</p>
+
+<h1 align="center">ISL App</h1>
 
 This repository contains no application source or setup instructions.
 
